@@ -1,0 +1,60 @@
+1586986295a:1:{s:11:"contact.htm";a:9:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:578:"title = "Contact"
+url = "/contact"
+layout = "default"
+is_hidden = 0
+==
+<h1>Contact us</h1>
+
+<form>
+
+<div class="form-group">
+    
+    <label for="name">Name:</label>
+ 
+     <input type="text" class="form-control" name="name">
+</div>
+
+<div class="form-group">
+    
+    <label for="Email">Email:</label>
+ 
+     <input type="email" class="form-control" name="name">
+</div>
+
+<div class="form-group">
+    
+    <label for="body">Body:</label>
+ 
+     <input type="text" class="form-control" name="name">
+</div>
+
+<button type="submit">Submit</button>
+
+</form>";s:5:"mtime";i:1586982733;s:6:"markup";s:507:"<h1>Contact us</h1>
+
+<form>
+
+<div class="form-group">
+    
+    <label for="name">Name:</label>
+ 
+     <input type="text" class="form-control" name="name">
+</div>
+
+<div class="form-group">
+    
+    <label for="Email">Email:</label>
+ 
+     <input type="email" class="form-control" name="name">
+</div>
+
+<div class="form-group">
+    
+    <label for="body">Body:</label>
+ 
+     <input type="text" class="form-control" name="name">
+</div>
+
+<button type="submit">Submit</button>
+
+</form>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
